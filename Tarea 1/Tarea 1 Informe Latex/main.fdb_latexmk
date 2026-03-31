@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1774972562.4839 "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 1/Tarea 1 Informe Latex/main.tex" "main.pdf" "main" 1774972567.29585 0
-  "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 1/Tarea 1 Informe Latex/main.tex" 1774972557.35076 16250 916d50cadeca8f0e145fd0017aeb4831 ""
+["pdflatex"] 1774977818.34792 "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 1/Tarea 1 Informe Latex/main.tex" "main.pdf" "main" 1774977823.89765 0
+  "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 1/Tarea 1 Informe Latex/main.tex" 1774977812.54227 18178 68623d116ff58b0eec8526ccf65ca3ab ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -239,10 +239,12 @@
   "FollowersOrdenados2.2.png" 1774822818 47537 0b335d72f24d02c60236c45d7c74f063 ""
   "PolimaWestcolModularity.png" 1774820527.10319 891190 7de77e358cc9c63bd0a06526e043e295 ""
   "PolimaWestcolNetwork.png" 1774884727.07321 629459 4107e06f6870cf46770406a152872053 ""
+  "RelacionDegreeTamañoConBetweennessColor.png" 1774976234.37597 708822 97f2eeb27955ca5106ebe134d2c71421 ""
+  "RelacionPageRankTamañoConClossennessColor.png" 1774976234.36617 765219 df498197cd953010d2fe8c924fdcdd9b ""
   "img//departamentos/dii.pdf" 1774823662 21232 6cc5c3e9acdb788e85dd94dd08d8fc8f ""
-  "main.aux" 1774972567.06786 6435 80e1152ce4120b3c13784125f8a3f400 "pdflatex"
-  "main.tex" 1774972557.35076 16250 916d50cadeca8f0e145fd0017aeb4831 ""
-  "main.toc" 1774972567.07228 534 c23313d846e17357d5868029a1941010 "pdflatex"
+  "main.aux" 1774977823.65221 6966 0bec845a17b2f73d2cfda3283fccde7c "pdflatex"
+  "main.tex" 1774977812.54227 18178 68623d116ff58b0eec8526ccf65ca3ab ""
+  "main.toc" 1774977823.65682 534 2e4f5853924580e1bbeeebf51aba0465 "pdflatex"
   "template.tex" 1774813411.92075 375935 ae8888603274fea5afb46f7794af1bf2 ""
   "template_config.tex" 1774813486.98322 22092 dd302bb17f21c9b61401b84cbf481eff ""
   (generated)
