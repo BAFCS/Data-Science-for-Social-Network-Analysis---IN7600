@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  31 MAR 2026 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  31 MAR 2026 14:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2405,18 +2405,21 @@ LaTeX Info: Redefining \% on input line 250.
 File: PolimaWestcolModularity.png Graphic file (type png)
 <use PolimaWestcolModularity.png>
 Package pdftex.def Info: PolimaWestcolModularity.png  used on input line 254.
-(pdftex.def)             Requested size: 286.55107pt x 286.55423pt.
+(pdftex.def)             Requested size: 469.75539pt x 469.75385pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 255.
 See the caption package documentation for explanation.
 
+LaTeX Info: Redefining \. on input line 255.
+LaTeX Info: Redefining \% on input line 255.
+[8]
 LaTeX Info: Redefining \. on input line 270.
 LaTeX Info: Redefining \% on input line 270.
-(/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf8.def
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [8 <./PolimaWestcolModularity.png>] (./main.aux
+) [9 <./PolimaWestcolModularity.png>] (./main.aux
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
 )
@@ -2426,18 +2429,18 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33151 strings out of 467525
- 557493 string characters out of 5418982
+ 33152 strings out of 467525
+ 557499 string characters out of 5418982
  1279600 words of memory out of 5000000
  61440 multiletter control sequences out of 15000+600000
  674222 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  113i,16n,110p,17478b,2439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on main.pdf (10 pages, 6737420 bytes).
+Output written on main.pdf (11 pages, 6737915 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
  132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
