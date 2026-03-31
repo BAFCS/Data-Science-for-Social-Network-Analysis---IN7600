@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  30 MAR 2026 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  31 MAR 2026 12:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tarea 1/Tarea_1_Data_Science_For_Social_Network/main.tex"
-(/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tarea 1/Tarea_1_Data_Science_For_Social_Network/main.tex
+**"/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 1/Tarea 1 Informe Latex/main.tex"
+(/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 1/Tarea 1 Informe Latex/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (/usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
@@ -2316,8 +2316,8 @@ File: PolimaWestcolNetwork.png Graphic file (type png)
 <use PolimaWestcolNetwork.png>
 Package pdftex.def Info: PolimaWestcolNetwork.png  used on input line 93.
 (pdftex.def)             Requested size: 234.87769pt x 234.87692pt.
-LaTeX Info: Redefining \. on input line 105.
-LaTeX Info: Redefining \% on input line 105.
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
  [1
 
  <./PolimaWestcolNetwork.png>]
@@ -2344,12 +2344,12 @@ Package pdftex.def Info: Alto PageRank.png  used on input line 129.
 LaTeX Info: Redefining \. on input line 138.
 LaTeX Info: Redefining \% on input line 138.
  [2 <./Alto Degree 2.1.png> <./Alto betweenness 2.1.png> <./Alto clossnes 2.1.png> <./Alto PageRank.png>]
-<BadBunnyPopularityBetweennessNetwork2.2.png, id=75, 1258.7025pt x 970.62625pt>
+<BadBunnyPopularityBetweennessNetwork2.2.png, id=74, 1258.7025pt x 970.62625pt>
 File: BadBunnyPopularityBetweennessNetwork2.2.png Graphic file (type png)
 <use BadBunnyPopularityBetweennessNetwork2.2.png>
 Package pdftex.def Info: BadBunnyPopularityBetweennessNetwork2.2.png  used on input line 142.
 (pdftex.def)             Requested size: 328.82733pt x 253.57133pt.
-<BadBunnyPopularityBetweenness2.2.png, id=76, 814.04124pt x 199.74625pt>
+<BadBunnyPopularityBetweenness2.2.png, id=75, 814.04124pt x 199.74625pt>
 File: BadBunnyPopularityBetweenness2.2.png Graphic file (type png)
 <use BadBunnyPopularityBetweenness2.2.png>
 Package pdftex.def Info: BadBunnyPopularityBetweenness2.2.png  used on input line 149.
@@ -2367,8 +2367,8 @@ File: FollowersOrdenados2.2.png Graphic file (type png)
 <use FollowersOrdenados2.2.png>
 Package pdftex.def Info: FollowersOrdenados2.2.png  used on input line 165.
 (pdftex.def)             Requested size: 328.82733pt x 80.90355pt.
-LaTeX Info: Redefining \. on input line 186.
-LaTeX Info: Redefining \% on input line 186.
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
  [4 <./EdSheeranFollowersNetwork2.2.png> <./FollowersOrdenados2.2.png>]
 LaTeX Info: Redefining \. on input line 212.
 LaTeX Info: Redefining \% on input line 212.
@@ -2396,14 +2396,14 @@ L3 programming layer <2026-01-19>
  ) 
 Here is how much of TeX's memory you used:
  33133 strings out of 467525
- 556743 string characters out of 5418982
- 1278544 words of memory out of 5000000
+ 556710 string characters out of 5418982
+ 1279544 words of memory out of 5000000
  61425 multiletter control sequences out of 15000+600000
  674222 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,16n,110p,17489b,2188s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,16n,110p,17478b,2188s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on main.pdf (9 pages, 5405927 bytes).
+Output written on main.pdf (9 pages, 5406219 bytes).
 PDF statistics:
  173 PDF objects out of 1000 (max. 8388607)
  127 compressed objects within 2 object streams
