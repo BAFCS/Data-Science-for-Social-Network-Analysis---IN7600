@@ -17,6 +17,7 @@
 
 \usepackage{multirow}
 \usepackage{caption}
+\usepackage{placeins}
 
 
 
@@ -150,11 +151,14 @@ Finalmente, la comunidad 2, compuesta por 176 artistas, se aleja del nicho urban
     \label{fig:Comunidad2Louvain}
 \end{figure}
 
+\clearpage
 
 \section{Sección 2 Embeddings}
 
 \subsection{2.1}
 El método de embeddings basado en caminata aleatoria (random walks), como DeepWalk, funciona generando secuencias de nodos a través de caminatas aleatorias en el grafo. Es decir, por cada nodo en el grafo, se realizan múltiples caminatas aleatorias de longitud fija, lo que produce una serie de "sentencias" de nodos. Luego, estas secuencias se tratan como si fueran frases en un corpus de texto (utilizando técnicas de procesamiento de lenguaje natural), de forma que se aplica skip-gram para aprender representaciones vectoriales de los nodos, de manera que nodos que aparecen en contextos similares (que co-ocurren en las caminatas varias veces) tendrán representaciones vectoriales similares, lo que permite capturar la estructura del grafo. Esta representación vectorial saliente son los embeddings.
+
+\FloatBarrier
 
 \subsection{2.2}
 Aplique este método a su red y muestre sus resultados en dos dimensiones usando una
@@ -179,8 +183,12 @@ Se presenta la visualización de los embeddings de DeepWalk utilizando t-SNE en 
     \label{fig:EmbeddingsT-SNE-Louvain}
 \end{figure}
 
+\clearpage
+
 \subsection{2.3}
 Se decidio aplicar el método de clustering K-means sobre los embeddings de DeepWalk para generar comunidades. El algoritmo K-means se basa en la idea de particionar los datos en K clusters, en este caso, se decidio crear 6 clusters para mantener la misma cantidad de comunidades detectadas por el algoritmo de Louvain. El algoritmo asigna cada nodo a uno de los clusters basandose en la distancia euclidiana entre el nodo y el centroide del cluster, de manera que nodos con embeddings similares (que están cerca en el espacio de embeddings) serán agrupados juntos. Este método permite identificar grupos de nodos que comparten patrones similares, pero asume que los clusters son esféricos y de tamaño similar. El resultado de aplicar K-means sobre los embeddings se presenta en la figura \ref{fig:EmbeddingsKMeans}, donde cada color representa un cluster diferente. 
+
+\FloatBarrier
 
 \begin{figure}[ht!]
     \centering
@@ -222,11 +230,10 @@ Cabe mencionar que la comunidad más grande detectada por K-means sean de artist
     \label{fig:KMeansCluster0}
 \end{figure}
 
+\clearpage
+
 
 \subsection{2.5}
-2.5 Compare los resultados obtenidos en esta sección con los resultados obtenidos en la
-sección anterior y comente
-
 Los resultados obtenidos en la sección de detección de comunidades utilizando el método Louvain y el método de embeddings con clustering K-means muestran similitudes y diferencias en la estructura comunitaria de la red. Por un lado, al observar las visualizaciones de los embeddings con t-SNE, se puede visualizar que las comunidades detectadas cambian según el metodo utilizado, lo que sugiere que cada método captura diferentes aspectos de la estructura de la red. Se visualiza que K-means tiende a generar clusters más pequeños y con menos puntos en comparación con Louvain, lo que sugiere que K-means puede estar capturando subcomunidades dentro de las comunidades más grandes detectadas por Louvain. Esto no se repite en todos los clusters, pero si en la comunidad de color morado, donde Louvain detecta una comunidad grande, mientras que K-means la divide en dos clusters más pequeños, de color verde y amarillo. Además, al analizar los géneros más repetidos en cada comunidad, se observa que ambos métodos identifican comunidades con patrones similares de géneros musicales, pero con diferencias en la composición de los artistas dentro de cada comunidad. Por ejemplo, el cluster 2 de K-means muestra una mayor presencia de artistas del género urbano español, junto con la incorporación de artistas uruguayos, lo que no se observa en la comunidad 1 de Louvain, aún asi enfatiza la presencia de artistas del género urbano argentino, incorporando artistas de argetine indie. Por otro lado, el cluster 3 de K-means muestra una mayor presencia de artistas del género reggaeton y pop latino, lo que sugiere una comunidad más orientada hacia ambos géneros, mientras que la comunidad 0 de Louvain, que es la más similar, se enfoca en el trap latino. Asimismo, los tamaños de las comunidades detectados por K-means son menores en comparación con Louvain, lo que respalda la idea de que K-meas puede estar capturando subcomunidades. Además, se observa el cluster 0 de K-means, muestra un patron similar a la comunidad 2 de Louvain, con una fuerte presencia de géneros internacionales y comerciales, pero con una diferencia muy menor entre la cantidad de artistas del género pop y dance pop, teniendo una menor diferencia entre ambos géneros en la detección de K-means. 
 
 En general, ambos métodos identifican comunidades con patrones similares de géneros musicales, pero cada uno lo hace con técnicas de detección de comunidades diferentes, capturando diferentes aspectos de la estructura de la red, resaltando la importancia de utilizar múltiples enfoques para comprender la complejidad de las redes sociales y las comunidades dentro de ellas.

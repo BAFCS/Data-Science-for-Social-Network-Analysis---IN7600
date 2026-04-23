@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1776795416.28073 "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 2/Tarea 2 Informe Latex/main.tex" "main.pdf" "main" 1776795420.94757 0
-  "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 2/Tarea 2 Informe Latex/main.tex" 1776795416.12127 16092 908c8fb548cbb3114831e28901eb3137 ""
+["pdflatex"] 1776909774.32976 "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 2/Tarea 2 Informe Latex/main.tex" "main.pdf" "main" 1776909781.88698 0
+  "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 2/Tarea 2 Informe Latex/main.tex" 1776909774.15555 16061 886eec5a03cecb3bd615adcc3c0d853d ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -194,6 +194,7 @@
   "/usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pdfpages.sty" 1753385742 56631 520872fa620d78de49638b8237adcdce ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pppdftex.def" 1753385742 6446 d704c97dd1ebfffa5fa4578bda5e2987 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/physics/physics.sty" 1356048875 29610 a9597219b282d9c78b02393dcd7d4322 ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty" 1137110565 4087 636308456f60d2b31cbf97867db5708d ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/ragged2e/ragged2e.sty" 1687466457 10085 3dececaeed388e31285c366e124c0c4e ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/realboxes/realboxes.sty" 1313537253 8940 f47d4e7ac9623494507b25db2e02f240 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
@@ -230,7 +231,7 @@
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1774209607 3636776 dc5fa9b6b1453b9d196cd42edf876004 ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
   "img//departamentos/dii.pdf" 1774823662 21232 6cc5c3e9acdb788e85dd94dd08d8fc8f ""
-  "img/Tarea/1.1.png" 1776715312.92834 1375548 a8827cf6a3f94a78d8d7df11b675f7f1 ""
+  "img/Tarea/1.1.png" 1776815783.75687 1494705 91aa6e6e8d9092bca6ad90858ffd39c0 ""
   "img/Tarea/1.4 Comunidad 0.png" 1776708560.86216 42577 f94622dab351c82092af0f57c517037f ""
   "img/Tarea/1.4 Comunidad 1.png" 1776708578.04158 40303 6d47fc817f5e21e8ead8438886531ead ""
   "img/Tarea/1.4 Comunidad 2.png" 1776708637.2588 37046 d00ea35caddebe5e650ec5e038c9b433 ""
@@ -240,11 +241,11 @@
   "img/Tarea/ClusteringKmeansDeepWalk.png" 1776789704.83291 225346 028042d496994ecdc96c9ddf873e45b8 ""
   "img/Tarea/EmbeddingsT-SNE.png" 1776737133.65834 93577 ad04978a6ac49f7f58dc541dd9935150 ""
   "img/Tarea/EmbeddingsT-SNELouvain.png" 1776789440.33449 199251 7f8bce0fec3aece97bc12ac291c16ab7 ""
-  "img/Tarea/PolimaGirvanNewman.png" 1776732975.59073 461341 da1dc168056a5cd98b1f0f4d53fa09d2 ""
-  "img/Tarea/PolimaLouvain.png" 1776732975.55989 775132 1ca5fb594b539f83f1eed31efae697f1 ""
-  "main.aux" 1776795420.71019 7893 e6cfaf6d004715ccc869aee796e5d353 "pdflatex"
-  "main.tex" 1776795416.12127 16092 908c8fb548cbb3114831e28901eb3137 ""
-  "main.toc" 1776795420.71504 749 66a688d3967a988e49c4b05f11f50e05 "pdflatex"
+  "img/Tarea/PolimaGirvanNewman.png" 1776815544.4268 1549662 76623b19f7ea4b50dd7da97801c6aa1b ""
+  "img/Tarea/PolimaLouvain.png" 1776815019.88621 3512807 6ab751f00118a8e9312b7918865e1347 ""
+  "main.aux" 1776909781.64864 7894 639d751871c0b8788312a7b45611f063 "pdflatex"
+  "main.tex" 1776909774.15555 16061 886eec5a03cecb3bd615adcc3c0d853d ""
+  "main.toc" 1776909781.65265 750 18c05c0263ac87b616bf5bf083baeb5d "pdflatex"
   "template.tex" 1774813411.92075 375935 ae8888603274fea5afb46f7794af1bf2 ""
   "template_config.tex" 1774813486.98322 22092 dd302bb17f21c9b61401b84cbf481eff ""
   (generated)

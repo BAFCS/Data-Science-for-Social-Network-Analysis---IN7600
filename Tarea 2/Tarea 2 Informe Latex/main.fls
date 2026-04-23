@@ -17,6 +17,8 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/placeins/placeins.sty
 INPUT ./template.tex
 INPUT ./template.tex
 INPUT ./template.tex
