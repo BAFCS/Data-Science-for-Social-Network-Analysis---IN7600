@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1776909774.32976 "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 2/Tarea 2 Informe Latex/main.tex" "main.pdf" "main" 1776909781.88698 0
-  "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 2/Tarea 2 Informe Latex/main.tex" 1776909774.15555 16061 886eec5a03cecb3bd615adcc3c0d853d ""
+["pdflatex"] 1777055113.01138 "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 2/Tarea 2 Informe Latex/main.tex" "main.pdf" "main" 1777055120.75128 0
+  "/Users/bryan/Desktop/MDS/segundo semestre/Data analysis for social network/Tareas/Tarea 2/Tarea 2 Informe Latex/main.tex" 1777055112.81738 17982 61c7622f4e8afb3db969b666c3fc724c ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -243,9 +243,10 @@
   "img/Tarea/EmbeddingsT-SNELouvain.png" 1776789440.33449 199251 7f8bce0fec3aece97bc12ac291c16ab7 ""
   "img/Tarea/PolimaGirvanNewman.png" 1776815544.4268 1549662 76623b19f7ea4b50dd7da97801c6aa1b ""
   "img/Tarea/PolimaLouvain.png" 1776815019.88621 3512807 6ab751f00118a8e9312b7918865e1347 ""
-  "main.aux" 1776909781.64864 7894 639d751871c0b8788312a7b45611f063 "pdflatex"
-  "main.tex" 1776909774.15555 16061 886eec5a03cecb3bd615adcc3c0d853d ""
-  "main.toc" 1776909781.65265 750 18c05c0263ac87b616bf5bf083baeb5d "pdflatex"
+  "img/Tarea/PolimaLouvainHistograma.png" 1777054282.04935 44940 6d311c3ab29a571ae54d1d807bfe843c ""
+  "main.aux" 1777055120.5093 11851 1f54f0c1d2b5054090fefc8d18c294fa "pdflatex"
+  "main.tex" 1777055112.81738 17982 61c7622f4e8afb3db969b666c3fc724c ""
+  "main.toc" 1777055120.51424 1021 422f1b6ab048abc6ab2c478c918e9270 "pdflatex"
   "template.tex" 1774813411.92075 375935 ae8888603274fea5afb46f7794af1bf2 ""
   "template_config.tex" 1774813486.98322 22092 dd302bb17f21c9b61401b84cbf481eff ""
   (generated)

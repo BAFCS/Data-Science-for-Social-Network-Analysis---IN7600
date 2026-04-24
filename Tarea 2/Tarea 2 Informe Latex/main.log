@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  22 APR 2026 22:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  24 APR 2026 14:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2318,35 +2318,35 @@ File: img/Tarea/1.1.png Graphic file (type png)
 <use img/Tarea/1.1.png>
 Package pdftex.def Info: img/Tarea/1.1.png  used on input line 97.
 (pdftex.def)             Requested size: 328.82733pt x 311.70723pt.
-<img/Tarea/PolimaGirvanNewman.png, id=52, 2932.9575pt x 1437.37pt>
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+ [1
+
+ <./img/Tarea/1.1.png>]
+<img/Tarea/PolimaGirvanNewman.png, id=61, 2932.9575pt x 1437.37pt>
 File: img/Tarea/PolimaGirvanNewman.png Graphic file (type png)
 <use img/Tarea/PolimaGirvanNewman.png>
 Package pdftex.def Info: img/Tarea/PolimaGirvanNewman.png  used on input line 108.
 (pdftex.def)             Requested size: 328.82733pt x 161.13786pt.
-<img/Tarea/PolimaLouvain.png, id=53, 910.40125pt x 730.73pt>
+<img/Tarea/PolimaLouvain.png, id=62, 910.40125pt x 730.73pt>
 File: img/Tarea/PolimaLouvain.png Graphic file (type png)
 <use img/Tarea/PolimaLouvain.png>
 Package pdftex.def Info: img/Tarea/PolimaLouvain.png  used on input line 115.
 (pdftex.def)             Requested size: 328.82733pt x 263.9323pt.
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
- [1
-
- <./img/Tarea/1.1.png>]
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
  [2 <./img/Tarea/PolimaGirvanNewman.png> <./img/Tarea/PolimaLouvain.png>]
-<img/Tarea/1.4 Comunidad 0.png, id=76, 714.7503pt x 354.123pt>
+<img/Tarea/1.4 Comunidad 0.png, id=73, 714.7503pt x 354.123pt>
 File: img/Tarea/1.4 Comunidad 0.png Graphic file (type png)
 <use img/Tarea/1.4 Comunidad 0.png>
 Package pdftex.def Info: img/Tarea/1.4 Comunidad 0.png  used on input line 135.
 (pdftex.def)             Requested size: 328.82733pt x 162.92015pt.
-<img/Tarea/1.4 Comunidad 1.png, id=77, 714.7503pt x 354.123pt>
+<img/Tarea/1.4 Comunidad 1.png, id=74, 714.7503pt x 354.123pt>
 File: img/Tarea/1.4 Comunidad 1.png Graphic file (type png)
 <use img/Tarea/1.4 Comunidad 1.png>
 Package pdftex.def Info: img/Tarea/1.4 Comunidad 1.png  used on input line 142.
 (pdftex.def)             Requested size: 328.82733pt x 162.92015pt.
-<img/Tarea/1.4 Comunidad 2.png, id=78, 714.7503pt x 354.123pt>
+<img/Tarea/1.4 Comunidad 2.png, id=75, 714.7503pt x 354.123pt>
 File: img/Tarea/1.4 Comunidad 2.png Graphic file (type png)
 <use img/Tarea/1.4 Comunidad 2.png>
 Package pdftex.def Info: img/Tarea/1.4 Comunidad 2.png  used on input line 149.
@@ -2360,59 +2360,71 @@ LaTeX Info: Redefining \% on input line 154.
 <img/Tarea/EmbeddingsT-SNE.png, id=94, 714.7503pt x 492.1587pt>
 File: img/Tarea/EmbeddingsT-SNE.png Graphic file (type png)
 <use img/Tarea/EmbeddingsT-SNE.png>
-Package pdftex.def Info: img/Tarea/EmbeddingsT-SNE.png  used on input line 174.
+Package pdftex.def Info: img/Tarea/EmbeddingsT-SNE.png  used on input line 170.
 (pdftex.def)             Requested size: 328.82733pt x 226.42578pt.
 <img/Tarea/EmbeddingsT-SNELouvain.png, id=95, 663.4386pt x 492.1587pt>
 File: img/Tarea/EmbeddingsT-SNELouvain.png Graphic file (type png)
 <use img/Tarea/EmbeddingsT-SNELouvain.png>
-Package pdftex.def Info: img/Tarea/EmbeddingsT-SNELouvain.png  used on input line 181.
+Package pdftex.def Info: img/Tarea/EmbeddingsT-SNELouvain.png  used on input line 177.
 (pdftex.def)             Requested size: 328.82733pt x 243.93848pt.
-LaTeX Info: Redefining \. on input line 186.
-LaTeX Info: Redefining \% on input line 186.
+LaTeX Info: Redefining \. on input line 182.
+LaTeX Info: Redefining \% on input line 182.
  [5
 
 ]
-LaTeX Info: Redefining \. on input line 186.
-LaTeX Info: Redefining \% on input line 186.
+LaTeX Info: Redefining \. on input line 182.
+LaTeX Info: Redefining \% on input line 182.
  [6 <./img/Tarea/EmbeddingsT-SNE.png> <./img/Tarea/EmbeddingsT-SNELouvain.png>]
 <img/Tarea/ClusteringKmeansDeepWalk.png, id=112, 663.4386pt x 491.436pt>
 File: img/Tarea/ClusteringKmeansDeepWalk.png Graphic file (type png)
 <use img/Tarea/ClusteringKmeansDeepWalk.png>
-Package pdftex.def Info: img/Tarea/ClusteringKmeansDeepWalk.png  used on input line 195.
+Package pdftex.def Info: img/Tarea/ClusteringKmeansDeepWalk.png  used on input line 191.
 (pdftex.def)             Requested size: 328.82733pt x 243.58026pt.
-LaTeX Info: Redefining \. on input line 206.
-LaTeX Info: Redefining \% on input line 206.
+LaTeX Info: Redefining \. on input line 202.
+LaTeX Info: Redefining \% on input line 202.
  [7
 
  <./img/Tarea/ClusteringKmeansDeepWalk.png>]
 <img/Tarea/1.OrdenadoK-means.png, id=126, 714.7503pt x 354.123pt>
 File: img/Tarea/1.OrdenadoK-means.png Graphic file (type png)
 <use img/Tarea/1.OrdenadoK-means.png>
-Package pdftex.def Info: img/Tarea/1.OrdenadoK-means.png  used on input line 214.
+Package pdftex.def Info: img/Tarea/1.OrdenadoK-means.png  used on input line 210.
 (pdftex.def)             Requested size: 328.82733pt x 162.92015pt.
 <img/Tarea/2.OrdenadoK-means.png, id=127, 714.7503pt x 354.123pt>
 File: img/Tarea/2.OrdenadoK-means.png Graphic file (type png)
 <use img/Tarea/2.OrdenadoK-means.png>
-Package pdftex.def Info: img/Tarea/2.OrdenadoK-means.png  used on input line 221.
+Package pdftex.def Info: img/Tarea/2.OrdenadoK-means.png  used on input line 217.
 (pdftex.def)             Requested size: 328.82733pt x 162.92015pt.
 <img/Tarea/3.OrdenadoK-means.png, id=128, 714.7503pt x 354.123pt>
 File: img/Tarea/3.OrdenadoK-means.png Graphic file (type png)
 <use img/Tarea/3.OrdenadoK-means.png>
-Package pdftex.def Info: img/Tarea/3.OrdenadoK-means.png  used on input line 228.
+Package pdftex.def Info: img/Tarea/3.OrdenadoK-means.png  used on input line 224.
 (pdftex.def)             Requested size: 328.82733pt x 162.92015pt.
-LaTeX Info: Redefining \. on input line 233.
-LaTeX Info: Redefining \% on input line 233.
+LaTeX Info: Redefining \. on input line 229.
+LaTeX Info: Redefining \% on input line 229.
  [8 <./img/Tarea/1.OrdenadoK-means.png>]
-LaTeX Info: Redefining \. on input line 233.
-LaTeX Info: Redefining \% on input line 233.
+LaTeX Info: Redefining \. on input line 229.
+LaTeX Info: Redefining \% on input line 229.
  [9 <./img/Tarea/2.OrdenadoK-means.png> <./img/Tarea/3.OrdenadoK-means.png>]
-LaTeX Info: Redefining \. on input line 246.
-LaTeX Info: Redefining \% on input line 246.
+LaTeX Info: Redefining \. on input line 244.
+LaTeX Info: Redefining \% on input line 244.
+ [10
+
+]
+<img/Tarea/PolimaLouvainHistograma.png, id=152, 859.2903pt x 425.6703pt>
+File: img/Tarea/PolimaLouvainHistograma.png Graphic file (type png)
+<use img/Tarea/PolimaLouvainHistograma.png>
+Package pdftex.def Info: img/Tarea/PolimaLouvainHistograma.png  used on input line 247.
+(pdftex.def)             Requested size: 328.82733pt x 162.89305pt.
+File: img/Tarea/1.OrdenadoK-means.png Graphic file (type png)
+<use img/Tarea/1.OrdenadoK-means.png>
+Package pdftex.def Info: img/Tarea/1.OrdenadoK-means.png  used on input line 254.
+(pdftex.def)             Requested size: 328.82733pt x 162.92015pt.
+LaTeX Info: Redefining \. on input line 266.
+LaTeX Info: Redefining \% on input line 266.
  (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [10
-
-] (./main.aux
+) [11 <./img/Tarea/PolimaLouvainHistograma.png>] (./main.aux
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
 )
@@ -2422,18 +2434,18 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 33193 strings out of 467525
- 558359 string characters out of 5418982
- 1275744 words of memory out of 5000000
- 61473 multiletter control sequences out of 15000+600000
+ 33207 strings out of 467525
+ 558769 string characters out of 5418982
+ 1276744 words of memory out of 5000000
+ 61484 multiletter control sequences out of 15000+600000
  677220 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,16n,110p,17478b,2190s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,16n,110p,17478b,2188s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on main.pdf (12 pages, 4923271 bytes).
+Output written on main.pdf (13 pages, 4960480 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 227 PDF objects out of 1000 (max. 8388607)
+ 171 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
